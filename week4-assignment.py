@@ -24,5 +24,5 @@ with open("output.txt", "w") as file:
     file.write(uppercase_content + "\n")
     file.write(f"Word Count: {word_count}\n")
 
-# Step 6: Print success message
+# Printing success message
 print(" Processing complete! The file 'output.txt' has been created.")
