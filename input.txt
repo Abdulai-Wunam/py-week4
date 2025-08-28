@@ -1,0 +1,5 @@
+Python is powerful.
+It is widely used in data science.
+HTML and CSS are important for web development.
+Statistics helps in data analysis.
+Machine learning is the future of AI.
